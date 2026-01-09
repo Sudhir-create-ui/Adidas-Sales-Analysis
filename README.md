@@ -35,5 +35,5 @@ This project analyzes Adidas sales data using Power BI to uncover trends, region
 3. Interact with slicers to explore insights
 
 ## 📬 Contact
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: Sudhir Saroha
 
