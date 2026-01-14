@@ -24,15 +24,7 @@ This project analyzes Adidas sales data using Power BI to uncover trends, region
 - Evaluated retailer-level profitability
 - Visualized geographic concentration of sales
 
-## 📂 Files Included
-- `Adidas_Sales_Datasets.xlsx`
-- `Adidas_Sales_PowerBI_Dashboard.pbix`
-- Dashboard screenshots
 
-## 🚀 How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Interact with slicers to explore insights
 
 ## 📬 Contact
 LinkedIn: Sudhir Saroha
